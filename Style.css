@@ -1,0 +1,36 @@
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  padding: 10px;
+align-content: left;
+}
+#outer-box{
+  border:10px solid purple;
+}
+.inner-box{
+  background-color:red;
+}
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+.white-text{
+  
+  color:white;
+  font-family:'Times New Roman',times,serif;
+  
+}
+div{
+  margin: none;
+}
+p{
+    font-family:'Times New Roman',times,serif;
+}
+.yellow-text{
+  margin: 0px;
+}
+body{
+  
+}
